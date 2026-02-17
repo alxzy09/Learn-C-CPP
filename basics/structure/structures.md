@@ -173,4 +173,3 @@ Hello World! I'm a C++ program
 ```
 
 Kedua cara mengakses elemen namespace `std` (kualifikasi eksplisit dan deklarasi `using`) valid di C++ dan menghasilkan perilaku yang persis sama. Untuk kesederhanaan, dan untuk meningkatkan keterbacaan, contoh dalam tutorial ini akan lebih sering menggunakan pendekatan terakhir dengan deklarasi `using`, meskipun perlu dicatat bahwa kualifikasi eksplisit adalah satu-satunya cara untuk menjamin bahwa tabrakan nama (name collisions) tidak pernah terjadi. Namespace dijelaskan lebih detail di bab selanjutnya.
-```
