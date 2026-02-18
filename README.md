@@ -12,10 +12,7 @@ Materi di sini disusun mengikuti kurikulum standar pemrograman C++ modern (mendu
 Berikut adalah daftar isi (Syllabus) lengkap yang mencakup topik-topik dalam repository ini. Klik pada topik untuk melihat contoh kode sumber dan penjelasannya.
 
 ### 📂 Introduction
-- Pengenalan dasar bahasa C++.
-
-### 📂 Compilers
-- Penjelasan detail tentang compiler (seperti di atas).
+- [Pengenalan dasar bahasa C++.](./introduction)
 
 ### 📂 Basics of C++
 Dasar-dasar yang harus dikuasai pertama kali.
